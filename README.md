@@ -4,4 +4,4 @@
 
 mpv 具体配置过程：https://kirinohouse.com/kr0003
 
-准确地用未知的触感
+包含配置文件与天线绑定文件。
